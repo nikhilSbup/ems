@@ -1,6 +1,6 @@
-
-@import "tailwindcss/preflight";   /* replaces @tailwind base */
-@import "tailwindcss/utilities";   /* replaces @tailwind components & utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 *{
   color: #fff;
