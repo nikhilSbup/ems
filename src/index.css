@@ -1,0 +1,10 @@
+
+@import "tailwindcss/preflight";   /* replaces @tailwind base */
+@import "tailwindcss/utilities";   /* replaces @tailwind components & utilities */
+
+*{
+  color: #fff;
+}
+body{
+  background-color: #111 ;
+}
